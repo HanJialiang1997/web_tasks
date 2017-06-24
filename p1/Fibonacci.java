@@ -1,4 +1,4 @@
-package Ã»ÏëºÃ½ÐÉ¶;
+
 import java.math.BigDecimal;
 
 public class Fibonacci {
