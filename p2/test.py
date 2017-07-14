@@ -11,6 +11,7 @@ from PIL import Image
 
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)'
 headers = {'User-Agent': user_agent}
+
 session = requests.session()
 
 
